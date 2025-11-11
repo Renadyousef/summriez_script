@@ -1,3 +1,4 @@
-Flask==3.0.0
-openai==0.28.0
-python-dotenv
+Flask==2.3.2
+gunicorn==21.2.0
+numpy==1.26.4
+# plus any other libs your summarize_function uses
