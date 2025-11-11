@@ -1,4 +1,5 @@
 Flask==2.3.2
 gunicorn==21.2.0
 python-dotenv==1.0.0
+openai==0.27.10
 # plus any other libs your summarize_function uses
